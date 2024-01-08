@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@dynamic-labs/ethereum-aa": "^1.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -18,6 +19,7 @@
     "@dynamic-labs/blocto-evm": "^1.0.0",
     "@dynamic-labs/cosmos": "^1.0.0",
     "@dynamic-labs/ethereum": "^1.0.0",
+    "@dynamic-labs/ethereum-aa": "^1.0.0",
     "@dynamic-labs/flow": "^1.0.0",
     "@dynamic-labs/magic": "^1.0.0",
     "@dynamic-labs/sdk-react-core": "^1.0.0",
